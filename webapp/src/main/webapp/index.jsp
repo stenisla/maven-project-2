@@ -20,8 +20,8 @@
 </head>
 <body>
 <div class="header">
-  <h1>Sample Website</h1>
-  <p>Hello JJTech World!</p>
+  <h1>Stenisla is from mankon</h1>
+  <p>She loves dancing!</p>
 </div>
 </body>
 </html>
